@@ -1,0 +1,19 @@
+.pluto {
+    background-color: rgb(240, 169, 169);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#deuce {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.jupiter {
+    font-size: 24px;
+}
+
+#another-one {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
